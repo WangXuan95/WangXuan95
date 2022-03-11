@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **FPGA design | Hardware design | Ph.D. student of CS, USTC**
-
 <table>
 <tr>
 <td>
