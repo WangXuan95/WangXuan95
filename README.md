@@ -1,3 +1,4 @@
+
 <table>
 <tr>
 <td>
@@ -13,7 +14,8 @@
 </tr>
 </table>
 
-### ⚡ 我的技术栈
+
+### ⚡ 我的技术栈 | My Tech Stack
 
 * ![systemverilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg) ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![csharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff)
 
