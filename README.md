@@ -23,4 +23,4 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/WangXuan95/count.svg)
+<img align="right" src="https://komarev.com/ghpvc/?username=WangXuan95&color=green">
